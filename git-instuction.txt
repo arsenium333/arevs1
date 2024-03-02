@@ -1,0 +1,5 @@
+git config --global user.name "arevs"
+git config --global user.email "arssad312@gmail.com"
+
+
+
